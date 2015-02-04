@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatter">
+    <option name="defaultSettings" value="true" />
+    <option name="formatter" value="ECLIPSE" />
+    <option name="id" value="1419920489852" />
+    <option name="name" value="default" />
+    <option name="optimizeImports" value="false" />
+    <option name="pathToConfigFileJava" value="$PROJECT_DIR$/../../../../q/idea/Qunar.xml" />
+    <option name="selectedJavaProfile" value="Qunar" />
+  </component>
+  <component name="IdProvider" IDEtalkID="014E4A6315DE4B9BC625A393E8FE0187" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" />
+</project>
+
